@@ -1,0 +1,4965 @@
+[
+    {
+        "id": 111111,
+        "name": "Jawan",
+        "year": 2021,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "AAAABVzzLNKMJQWSEbVvnjxOcgV_O5ijS5DXyR9f-C9KccTXLyJzQIKvqDhZe5Yj5HdCUp-DVn5PeXStJlmABa0s1hcg8knYZAFIIhwSMz01r_XZsV8ZC3r3sEUgbgsVk9vF6hZ2ivRK97wqYrJuZHSlFFgcMgEatVNQW958EuvWVqeo5fmzpoRmsUey6Z3pyHaf.webp",
+        "big_poster": "AAAABVzzLNKMJQWSEbVvnjxOcgV_O5ijS5DXyR9f-C9KccTXLyJzQIKvqDhZe5Yj5HdCUp-DVn5PeXStJlmABa0s1hcg8knYZAFIIhwSMz01r_XZsV8ZC3r3sEUgbgsVk9vF6hZ2ivRK97wqYrJuZHSlFFgcMgEatVNQW958EuvWVqeo5fmzpoRmsUey6Z3pyHaf.webp",
+        "logo": "",
+        "cast": [
+            "Sharukh Khan",
+            "Nayan Tara"
+        ],
+        "director": "Atlee Kumar",
+        "writer": [
+            "Atlee Kumar",
+            "S.Ramanagirivasan"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Dramas",
+            "Action & Adventure Movies",
+            "Social Issue Dramas"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Self-harm",
+            "suicide",
+            "tobacco use",
+            "violence Content restricted to adults"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 50m",
+        "ranking": 1,
+        "views": 5000,
+        "like": 8,
+        "pra": "A prison warden recruits inmates to commit outrageous crimes that shed light on corruption and injustice — and that lead him to an unexpected reunion."
+    },
+    {
+        "id": 111112,
+        "name": "Dream girl 2",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "AAAABcyNf-rG_ibKFeRWFjX1LD7dP7l7ByNtNvV4L_W_bL_FIZYUffg0u46VXJ3RXzBGcsDyABVRqWtja5NDQYBUSpeaTY6jWYUdWHBhkSNDYVQrjKXdeK5gE8nrJWNDbwsdnvKAYI8ezheOergYmb-TXzcxOQhX9KkJYRDlkemaDdVI0wYQvcXeitjNWdhLEBIg.webp",
+        "big_poster": "AAAABbY0W0ZyfXyqy-ZC_sGegTwUgUc8OfpCj-OLUozync4b-tJapCuinpoQBqTHUKst88P_HLBM0hvfivXawVQQHu5HZ3Og0ot9xDwWKy_g93QYKycUB7xbkeFdnAPtOqzsOuvihMs0TJqYgZKBI_MXB1nkhSwFOcECRd0PAflMA-lEoHXBe1QNL9YkvpCMj9lB.webp",
+        "logo": "AAAABWBWah6jr03N4BMgvX4gIq36zAsUM0bSwveDccqe-__XxxXlEyd1G5hgrRkUOieLzyqhCeRaesf-h-MTRMFcylrPWG5o5Gh89D4RJZqIofA.webp",
+        "cast": [
+            "Ayushman Khurrana",
+            "Ananya Panday"
+        ],
+        "director": "Raaj Shaandilyaa",
+        "writer": [
+            "Raaj Shaandilyaa",
+            "Naresh Kathuria"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Dramas",
+            "Action & Adventure Movies",
+            "Social Issue Dramas"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Crude Humor",
+            "language",
+            "tobacco use",
+            "Mature thems"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 7m",
+        "ranking": 3,
+        "views": 10000,
+        "like": 3,
+        "pra": "Karam secretly turns his female alter ego into a dancer and woos a millionaire's son in hopes of paying family debts and impressing his fiancée's father."
+    },
+    {
+        "id": 111113,
+        "name": "Khakee: The Bihar Chaptere",
+        "year": 2022,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "Serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABa1mZdz44HdzvzwHEN_LvhA0Q1ewd6ZU1g__lUwZhONf4USL3X52qyc6DFH3evgvVXurDpPF1wpbEFapO_8K1CvH0oS7rT7eRvXxXaUkF81TVGOlUCC9YzgzPzPFFjmyO02j.jpg",
+        "logo": "AAAABUrA3bur2_aYaYOczhQAnx_5AsTDs6F9GUAm6etWakRizMmO9DmIdX5rr6NiyVj_Tj55JLdq_c48W1qyV9QHz409Hm4a9RZhxMu-cmRZaOvwh_qaC2P-rHS1KLyRPePLizUtgjW7Skc64ePlqR2C-JLH0l0sEd6_NKiGvsRwfJKOcb5ShVWJ.webp",
+        "cast": [
+            "Karan Tracker",
+            "Avinash Tiwary"
+        ],
+        "director": "Neerj Pandey",
+        "writer": [
+            "Neerj Pandey"
+        ],
+        "genres": [
+            "TV Drama",
+            "Crime TV Shows",
+            "TV Thirllers",
+            "Hindi-Laguage Shows",
+            "TV Shows based On Real Life"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Violence",
+            "language",
+            "tobacco use",
+            "Mature thems"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "57m",
+        "ranking": 8,
+        "views": 8000,
+        "like": 7,
+        "pra": "As a righteous cop pursues a merciless criminal in Bihar, he finds himself navigating a deadly chase and a moral battle mired in corruption.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111114,
+        "name": "Lupin",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABbhE9gDlaGZOEd0BSrdFPxJsdEvh74wFO7DwZGUqR2QXnbyme2urSNUjULoG3wk01OCsEpgfjbbRL1h9WMNJnqlUD6ZKz_nCvVHmxMs1M0MkqLyl8oe38zm9hVEi13Bph8ch.jpg",
+        "logo": "AAAABYrsUCEbAXwTmZegqqO1o-uLwMUgQlMiJl84DO0oyEdU48p0QZ9Y7sOttH5WsMLoFSF_i5L81Olyjc9w-vqA8bqhzpeIVdHfBM2yf6IDNA0XdSssYvjNa3dPpAIs8HOznHiuPebfVBzxGqNUXhcGXSuJ8lZ06JmQ2xhWt31vOvcw2soHDZ3T.webp",
+        "cast": [
+            "Omar sy",
+            "Ludivine Sgnier"
+        ],
+        "director": "George kay",
+        "writer": [
+            "George kay"
+        ],
+        "genres": [
+            "TV Drama",
+            "French",
+            "TV Mysteries",
+            "TV Shows based On Book",
+            "TV Action & Adventure"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "suicide",
+            "tobacco use",
+            "Mature thems"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "48m",
+        "ranking": 11,
+        "views": 2000,
+        "like": 9,
+        "pra": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111115,
+        "name": "Irugapatru",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABci_MNa7tIcFY3onLJMZgGO53mDZLtyi4kwfJO_fxaqdqe_yF0qObIAwYRq6I1JdBC0LzgEpNB_mrJfZrRmm3U8KNfThGJU7k2Q.webp",
+        "logo": "AAAABRoIQKzlNA4DH9I7thlhWoaD-JE9R2P13gLulGXwR0v5tMjZwolyILiWzwdLsYISaL4vaVjSBiTz5G1y4NfO2e-ACuqsMpsc2wo5AfcFEJk.webp",
+        "cast": [
+            "Sraddha Srinath",
+            "Vikram Prabhu"
+        ],
+        "director": "Yuvaraj Dhayalan",
+        "writer": [
+            "Yuvaraj Dhayalan"
+        ],
+        "genres": [
+            "Tamil-Laguage Movies",
+            "Dramas",
+            "Romantic Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Violence",
+            "language",
+            "Mature thems"
+        ],
+        "type": "Tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 32m",
+        "ranking": 15,
+        "views": 10000,
+        "like": 56,
+        "pra": "Three couples in turbulent marriages embark on an emotional journey to find love with each other again — or fall apart forever."
+    },
+    {
+        "id": 111116,
+        "name": "OMG",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "AAAABehNNdkB97A8Bg2rGPhNDhyejMzpMxDA71hZGCrLZ8ymRMYfIF-ZH9fk9GPjZBAScINGz7dDmvj0SEA-bYeRjfjhP6wmdCpFAV9v.webp",
+        "big_poster": "AAAABcPCK6xWt5PL0ZNTFD2wl5xT68GJ3R-BgGVKA_nEjNANd8wuvwwmr-o_9zmvIbNiONa4HRalIgOEwF9hndzqCA0VtoS_XHD60AyD8Vq6fpUlnaRkvv0c6jKG4a1hX3RoSLwdgtYD3YTAyuV_02SjUbzJt__gF9tna-M.webp",
+        "logo": "AAAABVzjTL18C-_NmR9Jhm0mj2r-PS1cVKLUi1JK3E5edObxhxMMvtqOJANtQIBXIVsa8Wj1pAota7LmAQ6nriJqXYvOAQfFBMfwDzWIFPNmwtc.webp",
+        "cast": [
+            "Akshay Kumar",
+            "Yami Gautam"
+        ],
+        "director": "Amit Rai",
+        "writer": [
+            "Amit Rai"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Dramas",
+            "Comedy Movies",
+            "Bollywood Movies",
+            "Courtroom Movies"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Sexual Violence References",
+            "suicide",
+            "Mature thems"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 35m",
+        "ranking": 1,
+        "views": 15000,
+        "like": 78,
+        "pra": "A devout father takes on a dogmatic school — and his own moral beliefs — after the school expels his son over an embarrassing video that goes viral."
+    },
+    {
+        "id": 111117,
+        "name": "Money Heist",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABcT0f0nzolJNvHO_0BoiuXm6UKNoBIKjAFA8M9-p8-p3o_qyfsy9tcTA-djieHaD6sz9wFt4v9TCoXurl1Mwmpyed2KmCbxLEXAjSj-_sQF9XgzNJvOVK2IC8nAwzt0OVSOA.jpg",
+        "logo": "AAAABbVBZZI4ewNxMH5D6oTe7AiwHg0WjmMUwC7nJ0w2SFZO2YWN7BXiEu6BV80gef6qcE0rT65M2UP7TGdKroEWmGZg7W1wxug75fMpQrCx68G2rIyXtoYE_F6ea_OrDddy_KtGDvt0Lx7dekH-AQRoAtH8vCKeXyMYSIfSH7iBXdPn1D8cSj1o.webp",
+        "cast": [
+            "Ursula Corbero",
+            "Alvaro Morte"
+        ],
+        "director": "Alex Pina",
+        "writer": [
+            "Alex Pina"
+        ],
+        "genres": [
+            "Spanish",
+            "Crime TV Shows",
+            "TV Trillers"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Spanish",
+            "Crime TV Shows",
+            "TV Thrillers"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "48m",
+        "ranking": 2,
+        "views": 6000,
+        "like": 17,
+        "pra": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111118,
+        "name": "True Beauty",
+        "year": 2020,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABdMUFn_qx4wIfV8BL5FfRORBtxn9xZduOUYHpID0GPRUPkxlQl-MSCWXLYzNiIhTbQIiu4fjJhbFJOpgxmmeskNzuhAJXWNPfKU.webp",
+        "logo": "AAAABecmcVXRpBGQufwHyaXW5mBCIKVfUvf1H4veH0SsEI8GiIdmBZaR20r1C_XR9Y106LhGJzb6a2h0-7WIw6o17VN1nQymdUFRHNJ7q-Rr4Ok.webp",
+        "cast": [
+            "Mun Ya-Young",
+            "Cha Eun-Woo"
+        ],
+        "director": [
+            "Kim Sang-Hyeob",
+            "Lee Si-Eun"
+        ],
+        "writer": [
+            "Kim Sang-Hyeob",
+            "Lee Si-Eun"
+        ],
+        "genres": [
+            "Korean",
+            "Teen TV Shows",
+            "TV Comedies",
+            "Romentic TV Comedies",
+            "K-Dramas Based On Webtoon"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "language",
+            "Mature thems",
+            "Nudity",
+            " Violence",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "48m",
+        "ranking": 18,
+        "views": 2500,
+        "like": 25,
+        "pra": "Formerly bullied, a teen masters the art of makeup and becomes a knockout at her new school — but keeping up appearances is harder than it seems.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111119,
+        "name": "Khufiya",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABe3JYh6IdGKhMoPTtUGE86_Ff6VYmnq_px1CQApSiUXlpDIQupfU8AxWpz0F3Lt8D2u2diM_vHIikgGAYcyzVzcn0bBlXz8LXPTBetmQJgqvd5jIMYURy3qXMh_wpwDRC3nX.jpg",
+        "logo": "AAAABUfkIQazvcTkw0FVOha2cUX7kfCiK-WBMLN1AQLCpN2sONPxLZhF5zOhG1Nev8AoSf5HMCCv5ksGN1uhR_iBCR1-C95lBDyHmPec0QTGkrwIvX7pQcj1J1hFouBCjZmH2mDne4UIo-igUZJqu-YCeAdjTmTmcia9PRBIM-biZoWBxC-riDDH.webp",
+        "cast": [
+            "Tabu",
+            "Ali Fazal"
+        ],
+        "director": "Vishal Bhardwaj",
+        "writer": [
+            "Vishal Bhardwaj",
+            "Rohan Narula"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Dramas",
+            "Thriller Movies",
+            "Bollywood Movies",
+            "Movies Based On Book"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Sexual content",
+            "language",
+            "tobacco use",
+            "Violence"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 38m",
+        "ranking": 9,
+        "views": 75000,
+        "like": 85,
+        "pra": "When a mole in an intelligence unit leads to the murder of an undercover spy, a hardened agent relentlessly pursues him to avenge the death."
+    },
+    {
+        "id": 1111120,
+        "name": "Adipurush",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABeG52N7JG9wIPIkksRS6g1ZRphNG1gMiY1pYqT1fWFoPr5dwU6ubAqNiriAMUqJ0WKt0O9IhbQW6xBfoGLoIqdzO7hYT4tzcP3w.webp",
+        "logo": "AAAABcoPWZCZYShdGrRBFGR3-5ExvLgp5WkppVNizkGqgzLm2NM9LnOqaeyiPaKgC4iUWnkQg6KHnPP8DYaKNiwTZaR6ODuD5xaudSYnOw9TGbc.webp",
+        "cast": [
+            "Prbhas",
+            "Saif Ali Khan"
+        ],
+        "director": "Om Raut",
+        "writer": [
+            "Om Raut"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Action & Adventure Movies",
+            "Movies Based On Book"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "Violence"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 57m",
+        "ranking": 3,
+        "views": 75000,
+        "like": 95,
+        "pra": "While serving a long exile, a righteous warrior prince sets out on an epic journey across land and sea to rescue his wife from a demon king."
+    },
+    {
+        "id": 111121,
+        "name": "Peaky Blinders",
+        "year": 2022,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABeqfT2_-pIeAnhkqj0GpudyhvXhx94AqyF9tkpneVdXu-3OATs6WlyyJJGhDCI9f8aYJJShAluJXN888F2NuB1cdlle-7Ky89bq8VkR-ilzL8yy5sT_4nUedoHC5jun8INFE.jpg",
+        "logo": "AAAABXATnou9lAifkkwnTkgHnTL843mPJnl8DvLJUNokZkepr5j3IOD75YzbJ956IRYAAVu_Aio8dxLB-iydkmmjoEM0XW9zeLyuEvlKcMi5r2FGeLrdlU1UyX3iLV-EBSkR9NG3iuHMvam8NOxOHc2s8EtmKwbwm8x8zn4mJSwSii0f9G1aeAvM.webp",
+        "cast": [
+            "Sam Neill",
+            "Cillian Murphy"
+        ],
+        "director": [
+            "Steven Knight"
+        ],
+        "writer": [
+            "Steven Knight"
+        ],
+        "genres": [
+            "British",
+            "TV Drama",
+            "TV Drama",
+            "Crime TV Shows",
+            "Period pieces"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Gore",
+            "language",
+            "Sex",
+            "Nudity",
+            " Violence",
+            "tobacco use",
+            "Substances",
+            "suicide"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "57m",
+        "ranking": 20,
+        "views": 2800,
+        "like": 23,
+        "pra": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111122,
+        "name": "F9 THE FAST SAGA",
+        "year": 2021,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABfYeI9QrMPgNu6m4ZVUCf2zDE2jQrrqL8En5STbRGKFwvGCRIWsP0Gf1O4L2oyngiAqvG-lKVBvEg5BBSKLKAguYOq7zY4JxmEs.webp",
+        "logo": "AAAABbnqE4ncKsaZIrHWulzHUPGBCtfITMfU6JhScPlnnbLjfIW2NlUFCv5loEfMhUzzE8zAj1DC_A9IjXyIAa1udafNS50HC4gLOUlsAlej3Fo.webp",
+        "cast": [
+            "Vin Diesel",
+            "Michell RodRiguez"
+        ],
+        "director": "Justin Lin",
+        "writer": [
+            "Justin Lin",
+            "Alfredo Botello",
+            "Daniel Casey"
+        ],
+        "genres": [
+            "Crime Movies",
+            "Action & Adventure Movies",
+            "US Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 22m",
+        "ranking": 20,
+        "views": 78000,
+        "like": 105,
+        "pra": "Dominic Toretto and the crew race to foil a civilization-threatening plot led by an elite criminal — who also happens to be Dom's own brother."
+    },
+    {
+        "id": 1111123,
+        "name": "Miss. Shetty Mr. PoliShetty",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABd5FLiC_umtHvQOkMIY5LV_9P_ij6UYH3kPMNsyclzCAnGFCcxvfMqRDwIn-tIRkpPGcW8EW-t7H95-G_tBlFwXhVuyqBP6XflM.webp",
+        "logo": "AAAABWmWsF_JdsjBdi9Qa0zFioKyhT4dBof5-oU4SVyX6roGyD_NPDvOxKmNO0Ap2jfG5LQHbQmi4RbDnyP8nVou8BwbJcUXb_NO97i3VLPX7oY.webp",
+        "cast": [
+            "Anushka Shetty",
+            "Naveen PoliShetty"
+        ],
+        "director": "Mahesh Babu P",
+        "writer": [
+            "Mahesh Babu P"
+        ],
+        "genres": [
+            "Romantic comedies",
+            "Comedy Movies",
+            "Romantic Movies",
+            "Telgu-Language Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "tobacco use",
+            "Substances"
+        ],
+        "type": "Tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 28m",
+        "ranking": 26,
+        "views": 88000,
+        "like": 103,
+        "pra": "An ambitious chef starts working with a stand-up comedian and initially struggles to deal with his carefree attitude — only to unexpectedly find love."
+    },
+    {
+        "id": 111124,
+        "name": "One Piece",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABQ2IRFz3iLEC8mxkVpGPULIkzTdZhSmcbCwZvLViIwijaQemVgHpQPRefrOEN6HeNspcIWBIEHl0tR3DLcNbuqzUire4Eha9ILNFHo-_UzTYrUF9I5uwPftlifs6oxn8n9bH.jpg",
+        "logo": "AAAABe3N1i0Zr_ZsXJhc1O2muNJMQtOZ3549BJd3focXUxXvXnbwJbRnrJ6xPNE0J6BWa3CrSYHt-w1JDmLiUzQaiSZUKOr4Fm0DeA5ew8Mh7nFX8-bjWukzmpX-K52rNAbP9KXuqRIYhdVmg7dKna4c9MrKIGBprrdrLDWrbwsNplpLRT2ec5hm.webp",
+        "cast": [
+            "Iñaki Godoy",
+            "Emily Rudd"
+        ],
+        "director": [
+            ""
+        ],
+        "writer": [
+            ""
+        ],
+        "genres": [
+            "TV Action & Adventure",
+            "US TV Shows",
+            "Fantasy TV Shows",
+            "TV Shows Based on Manga"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Self-harm",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "64m",
+        "ranking": 25,
+        "views": 7200,
+        "like": 36,
+        "pra": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111125,
+        "name": "Lucy",
+        "year": 2014,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABRKundqPsx_eCBufXBq63Yr0KDg-HQOyrRGvy2OO0kLybgjMa_SIINETyzGQqIhRWus-L0o8nXNgcUxOpOL2DbMI7ouiGTt-5s4.webp",
+        "logo": "AAAABdjQFTlM4M9AoltlUnWcXDtauZzyxhr9oLWzxOahGt0jS2crNS1FL_L_p4R6qMM4NbJjdQSMmPpAojZdUgEXDTuHtGsB1_L6rhlsx7Vc10E.webp",
+        "cast": [
+            "Scarlett Johansson",
+            "Morgan Freeman"
+        ],
+        "director": "Luc Besson",
+        "writer": [
+            "Luc Besson"
+        ],
+        "genres": [
+            "Frenchs",
+            "Sci-Fi Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Gore",
+            "Violence",
+            "Substances"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "1h 29m",
+        "ranking": 28,
+        "views": 66000,
+        "like": 55,
+        "pra": "When a young American in Taiwan becomes an unwilling drug mule, the high-tech narcotics get released into her system and activate superhuman powers."
+    },
+    {
+        "id": 111126,
+        "name": "Young Sheldon",
+        "year": 2020,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABRLRGCEawzBE3FNty9ZeG-qNJh8ko-50gHHeqzDnjmTW8OwjJCM2Vz8aFzlOXKOHe4Zh-Hkg1x2H2wcq6NSnoxoZP4FxSNuGiEc.webp",
+        "logo": "AAAABY1W30ujIXyX1ZH6o33TNy-eACHXG2OCRI4a4AynnEqVj0biYyVMqCe8v9X69bqZRlHSZsIZJdhFicfHHiqCbL42nvp33Q0fqYWlPv9KaWE.webp",
+        "cast": [
+            "Iain Armitage",
+            "Zoe Perry"
+        ],
+        "director": [
+            "Chuck Lorre",
+            "Bill Prady",
+            "Steve Molaro",
+            "Todd Spiewak"
+        ],
+        "writer": [
+            "Chuck Lorre",
+            "Bill Prady",
+            "Steve Molaro",
+            "Todd Spiewak"
+        ],
+        "genres": [
+            "Sitcoms",
+            "US TV Shows",
+            "Family Watch Together TV",
+            "TV Comedies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "language",
+            "Mature thems",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "21m",
+        "ranking": 30,
+        "views": 1200,
+        "like": 78,
+        "pra": "Brilliant yet awkward nine-year-old Sheldon Cooper lands in high school where his smarts leave everyone stumped in this The Big Bang Theory spinoff.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111127,
+        "name": "Wingwomen",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "AAAABV7rrgJ7L3F9MsgfYHuoi5lZxX6rz69WqLET3NSCGS54ahEebKp86cPRvpcFdVIepd85XGgNb-jwKErGk0t_lZFpHwVDt1nADUCe48aHk7xzQAJsQmAMOP_hfsdAwbxcriNfbSztF4nA0XP0KoPi-7ndGhwPXCLOcBP_FCFTchF1GDp7Nx_BMQDkxD3oceqIT.jpg",
+        "big_poster": "AAAABRoZZ4KnEQaNkXy8psSTXTXzI-H1KL_UingZQYvJB3vLxMYYF2vLV34m0wdxWhAQfjhRa-_Ad3gKE-kzN0yf5x8gSgDF0bfDiBQW4JKUc0jWqaHYN8P49sMCGsk4eZkAIFZacYrn-3aiT_2qkNsz3uKigpiMP2I81dLkt70afln9vhQrA2pTSOuj5ra57P4.jpg",
+        "logo": "AAAABbYrDQb1RCbKYBZ9aH1HHmg2lkOXBtMjbbomh5ABFyQggmAm_szkI4Ys1BIJuEzzylLQlwf6kV1N62vdtB6Mm4hJJSoCTmqDj35eqigX8RLF1aE5pIHtHdXzQMhEIe1WaLgkfCFW7PZv7ShVZCTkqngTuRT9OUAZiTkMGSPVx0qqzSVrK-6m.webp",
+        "cast": [
+            "Adèle Exarchopoulos",
+            "Mélanie Laurent"
+        ],
+        "director": "Mélanie Laurent",
+        "writer": [
+            "Mélanie Laurent",
+            "Christophe Deslandes",
+            "Cédric Anger"
+        ],
+        "genres": [
+            "Frenchs",
+            "Dramas",
+            "Comedy Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "language",
+            "Violence",
+            "Nudity",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "1h 55m",
+        "ranking": 26,
+        "views": 96000,
+        "like": 125,
+        "pra": "Tired of life on the run, a pro thief decides to retire — but not before one easy last job with her partner in crime and a feisty new getaway driver."
+    },
+    {
+        "id": 111128,
+        "name": "All The Light We Cannot See",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "AAAABbwKXFldyPARGosHaHBhteLwzewlN5fiH2QWTvwcVWrU76mkAtkTLc-nEyHHm_Sgzre5t-GH7HGaSRYrGo_0ejxvxaZTALzOCLbKmkL5hfl3q_JZx4Io-sTLWD46DbvpQIUHJVLodi1c1SzkdkJ76xux-UYBoxbKuuWAadqJmBAJunR5SPnvyOHbI6fJGMzh.jpg",
+        "big_poster": "AAAABRPKmaxm4BM7gPYN76m3bJAz-EKFhHCxImlnVp3xEugD9KaEkZ5TCEYlPz1QGGy0b92eTDxZqvzNoorYIjDAzmeDbz_CnOenqdYFUa9bX6z8GlSqNkh3dQxR5CFNTrOZY_bYd0srf7KJP-rSj-KJlar8QXgsgVeDGUJQh55F4f7odj-W5n6Pk_Yao2Pt2lo.jpg",
+        "logo": "AAAABUW7bi7TIpFbo9uXfwxVpI6QJI5UzwOWvvGMlaResGlNo4QJNQaOCUgs84OCn2rPkg69B6ds1wVRWHSaQCubwth8uYcDADEBt03MeZHSE7laTwGCB0J-73LiluxtFK0rSVT_0HlZQCC1ENhuj9mhImfgo-98w62cjsNziLdki8T-ospgp_bC.webp",
+        "cast": [
+            "Aria Mia Loberti",
+            "Louis Hofmann"
+        ],
+        "director": [
+            ""
+        ],
+        "writer": [
+            ""
+        ],
+        "genres": [
+            "TV Drama",
+            "US TV Shows",
+            "TV Shows based On Book"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Violence",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "62m",
+        "ranking": 31,
+        "views": 3200,
+        "like": 35,
+        "pra": "In the final days of WWII, the paths of a blind French girl and a German soldier collide. Based on Anthony Doerr's Pulitzer Prize-winning bestseller.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111129,
+        "name": "Kantara",
+        "year": 2022,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABSB7e-69bRRj4Jv55Dwf5XjGvx3zCIP0uJmybPHGs6gomVhFSsvQwpE7Obc-Mu4svtwcFa44MUmQnzuiC5wzQrp2UUaPREZegmg.webp",
+        "logo": "AAAABb791Bsg1W8FwA8LSK88ca-s1eZe8yW96WXpQ9XYs-ij4z9Iw3sTezJmN5SIbgn4_VwJKzZ73ADuQHHO9ibDSGRlaRSiyYeiIIqy-yTo3V0.webp",
+        "cast": [
+            "Rishab Shetty",
+            "Kishore Kumar G."
+        ],
+        "director": "Rishab Shetty",
+        "writer": [
+            "Rishab Shetty"
+        ],
+        "genres": [
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "Violence",
+            "Substances",
+            "tobacco use"
+        ],
+        "type": "Tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 27m",
+        "ranking": 29,
+        "views": 100000,
+        "like": 139,
+        "pra": "A fiery young man clashes with an unflinching forest officer in a south Indian village where spirituality, fate and folklore rule the lands."
+    },
+    {
+        "id": 1111130,
+        "name": "Mission Majnu",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABSiiw6MbxE9mU6u270eA8LCdPgZM_Jjkz9ZxmV8GYQsJ_EGL_rkRPSQ8zuLaipgIsqvUu1p1mBreNS2xhDlT1gu6RaRtLasznsZCL1Yfv4zSVBMNHgvrhLtzhV7BtYVhDxs4.jpg",
+        "logo": "AAAABYIQwuFJoxmR0zO0-0aSB1UqEusxDof4Y4cNh4nY3w5ENlct_11xUC-Sih8sHl_BmjlvaeTHXwm2kRlQi7pHHlDIWsHr-33cpwnKv7c3WZV1AaqE_LsPKDMKjyKvqNJ5_ZjnFxt478fg8whyruH-e3CBIaooFo092zSfqFxyZamvJtKbZBER.webp",
+        "cast": [
+            "Sidharth Malhotra",
+            "Rashmika Mandanna"
+        ],
+        "director": "Shantanu Bagchi",
+        "writer": [
+            "Shantanu Bagchi",
+            "Parveez Sheikh",
+            "Aseem Arora"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Military Movies",
+            "Spy Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "suicide",
+            "Violence",
+            "tobacco use"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 9m",
+        "ranking": 35,
+        "views": 70000,
+        "like": 112,
+        "pra": "In the 1970s, an undercover Indian spy takes on a deadly mission to expose a covert nuclear weapons program in the heart of Pakistan."
+    },
+    {
+        "id": 111131,
+        "name": "Fery the serise",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABTlDPSW4FG5X6owNiXbhrKqB9Tb4D_N6JNqK14YYiZXkwoAL3s0mR28n0P9ye_N78w0Crbj1VUQz1UeM5RkvaRZbmyf7FGCE3G2kBq7SHmak-JF5I0wyBg-NYjlBCSskE0yPp4as8-8jx_yttCbAcdrodiUZVtXMHwxpuLnOWJWBRopbG50JqDb6DCgjjBQuk.jpg",
+        "logo": "AAAABW2nS1ip03cEV_5dQ62od8ibZeu2cnG7WhLUAtN2pHyXVnzyu3DEu4oJZwCk-yuZouHO5NWGsTC_S9Pc15MAS_sDWwrVo8Q0V72QqToDoRM6Ibzd5d6wQdkCEqCAhXmekyKWTukZB_cAp7Fjzx5Fmsm0Vf4v8aVZM3n6oPZoesWr_Y_I1iOx.webp",
+        "cast": [
+            "Frank Lammers",
+            "Elise Schaap"
+        ],
+        "director": [
+            ""
+        ],
+        "writer": [
+            ""
+        ],
+        "genres": [
+            "TV Drama",
+            "Crime TV Shows",
+            "TV Thirllers",
+            "Belgian"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "language",
+            "Nudity",
+            "Sex",
+            "Violence",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "49m",
+        "ranking": 36,
+        "views": 5200,
+        "like": 254,
+        "pra": "Desperate for funds, Ferry Bouman stumbles upon a golden opportunity when a high-profile bust leaves a vacant position among Brabant's top dealers.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111132,
+        "name": "Zindagi Na Milegi Dobara",
+        "year": 2011,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABTXR0QWzZktyxCr-GUaTMw_i8-2QtccWuoKm5BGAqsVK6O1fjv-UtJImRnK09yYswHFUj5vI912j_J3LPDcf1HR-sIYrbWs6S8c.webp",
+        "logo": "AAAABcQarjIypExWHmr6xnrcQ6EggASZqV8F3d-7tBZAnc9Cn58ojKZ3ErCCu6Tt45rPKRMBMdT2zhSu8bVHA95icTUCW74KKwtd83wNbRVOe5s.webp",
+        "cast": [
+            "Hrithik Roshan",
+            "Farhan Akhtar"
+        ],
+        "director": "Zoya Akhtar",
+        "writer": [
+            "Zoya Akhtar",
+            "Reema Kagti"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Romantic comedies",
+            "Dramas",
+            "Comedy Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "language",
+            "Mature thems",
+            "tobacco use"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 34m",
+        "ranking": 40,
+        "views": 80000,
+        "like": 138,
+        "pra": "Three friends on an adventurous road trip/bachelor party in Spain learn some lessons about themselves and each other that will change them forever."
+    },
+    {
+        "id": 111133,
+        "name": "Vikings",
+        "year": 2019,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABU7Q5itqBWYfsN78g0nAKJ3P_7iE2nDVRkczvh-7esi5hSHZtPyU37ic9GC0YqFL8FCqPq0h0qeRkt3k3jGpY00oqGSrcBrlru4.webp",
+        "logo": "AAAABVJazt3lNdDnWr4UfZeHA7OAodlIlIlCPMAFMp_gZ6hxZEH9tU0JI58_KnO2Zi1kSokzijyV95MagQwbW6WG6DXSPGpUoS2-sTlPubVOA5s.webp",
+        "cast": [
+            "Travis Fimmel",
+            "Katheryn Winnick"
+        ],
+        "director": [
+            "Michael Hirst"
+        ],
+        "writer": [
+            "Michael Hirst"
+        ],
+        "genres": [
+            "Political TV Shows",
+            "TV Drama",
+            "Canadian",
+            "TV Action & Adventure",
+            "Period Pieces"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "gore",
+            "Nudity",
+            "Self Harm",
+            "sex",
+            "sex violence",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "43m",
+        "ranking": 42,
+        "views": 5200,
+        "like": 254,
+        "pra": "This gritty drama charts the exploits of Viking hero Ragnar Lothbrok as he extends the Norse reach by challenging an unfit leader who lacks vision.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111134,
+        "name": "Mad",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "AAAABZOdxRSeVGaiciAJLLPzZHxI3Fs8-mV6EzgcvwjVmrFYnDjYncwqJgOVol_VZe66DW9ZjDk7W_X1YTTlX5d4WJce_SXf18Ec5LyOl4etqR917jAgbmf5KSKANUH6j5mDziWB4ErJrQfPzdAY2NOE50uDrtVn4GmlHmelOf-NXiRCVpDEYWKlVfNuLucdapxB.webp",
+        "big_poster": "AAAABUHU72s2Fn6-Fi3fxZRg1wxFlpqHW4z6-WmV5HlCt0EVlg_4WQRgVKeXjLwbTN52Q0MG8lq2eq7bYgv-StTPdlUq3lo2iBnU_p4FcFl-GPeMxhYY1UqxizhP_hZbdztYbAK195kHgbvgc7N8DCckPhAZgjGOMTKaoWE.webp",
+        "logo": "AAAABaXUb-k-60D7l-XwjijzBP3oYvV7RK44maB6lLCNNmZACutD6XDP7rTVGruzXuR_ptNKR8kM4J7gsh6mLehakx2p2sY2enaBY9Tci1her_I.webp",
+        "cast": [
+            "Sangeeth Shoban",
+            "Ram Nithin"
+        ],
+        "director": "Kalyan Shankar",
+        "writer": [
+            "Kalyan Shankar"
+        ],
+        "genres": [
+            "Telgu-Laguage Movies",
+            "Romantic comedies",
+            "Romantic Movies",
+            "Comedy Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "language",
+            "Mature thems",
+            "tobacco use",
+            " Violence",
+            "Substances"
+        ],
+        "type": "Tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 4m",
+        "ranking": 26,
+        "views": 100000,
+        "like": 250,
+        "pra": "Youthful hijinks, romance and lifelong friendships are all part of the curriculum as Manoj, Ahsok and Damodar — aka the MAD squad — cope with college."
+    },
+    {
+        "id": 111135,
+        "name": "Kaala Paani",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABUITNq-HhIY0nqrQXwQYOLh9bizt1wUBiLaO4wkVNvwHP0Gj91r19r2a9nM2sX3dPGiU2K5TcE_FlU_KIZPOltgrw7rgv4N5TEUXaLYtY6A5wqzO4tHc_VKP-gMynAKpRygaDGqCft8DZUhJhzc7DVquwjdoJ1uEUXxFOFNPehoG4JA0gLKHa0k128oiXJ6be.jpg",
+        "logo": "AAAABfTQ_O2xpBYsRieZyOTYC47mbsyJ5pkurzLf2regYbO8u0XBIbgt8kAtuqhUO58QV1fwj7Y8keTdRAhtnqHBQmlVux2qqUfj2o4tyzHMi1yQh5PSWNQAoqfoAXpixLUwYRJBcDbWW0ddtVNkMwICkvB6_lb6evCcETQvuB003qGfIlpEKXJr.webp",
+        "cast": [
+            "Ashutosh Gowariker",
+            "Mona Singh"
+        ],
+        "director": [
+            "Sameer Saxena",
+            "Amit Golani"
+        ],
+        "writer": [
+            "Sameer Saxena",
+            "Amit Golani"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "TV Drama",
+            "TV Thirllers",
+            "Social Issue TV Dramas"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "language",
+            "Mature thems",
+            "Substances",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "43m",
+        "ranking": 31,
+        "views": 5500,
+        "like": 110,
+        "pra": "When a mysterious illness descends upon the Andaman and Nicobar Islands, a desperate fight for survival collides with a race to find a cure.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111136,
+        "name": "Sooryavanshi",
+        "year": 2021,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABUkulu4fwUrJAaq9r_TF4Wre6031-_XOTrKCchEBzfmY9XK15LjROfm0m5syG8dqD9TW_sH1D8FqvlQT4PA1uX-qil6dToul4iA.webp",
+        "logo": "AAAABUAslmx2AIYlxO0lDkt1anbXMC90e-_jyglsUKGliGi_GB8oGppwnpizdb0D719Aw0DUY0TRqJZBMhfQ4otyHYDrkWWd8KPKUz59_Ew6dBI.webp",
+        "cast": [
+            "Akshay Kumar",
+            "Katrina Kaif"
+        ],
+        "director": "Rohit Shetty",
+        "writer": [
+            "Rohit Shetty",
+            "Yunus Sajawal"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Crime Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "suicide"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 23m",
+        "ranking": 36,
+        "views": 150000,
+        "like": 250,
+        "pra": "A fearless, faithful (and only slightly forgetful) Mumbai cop pulls out all the stops — and stunts — to thwart a major conspiracy to attack his city."
+    },
+    {
+        "id": 111137,
+        "name": "Lucifer",
+        "year": 2021,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABVVBefzzb0fZRln5fGdbTRgA36U6DGx_DREST_G13nc_wthS0FNli_QP-4VGIYiA5mUG2eHkpW3oy40Xnla9LBrejki0Dtx_LNx7-W_cxCgoV3nxqPCkuhelZNT__Oflm2Ae.jpg",
+        "logo": "AAAABQZLKgn0NB84cUfszAC4lUgONfu5vWVjX1R8VPgwEJxtHbCK8d4Tb8_EpBKZbReIR2UzNi94OULRRC3F2wMExncMziwlcyxg0gaE0rhn6orfdZEi8eIEL0XyMFnOHOtoUx8-MyY6y3W0o5YrPTQ6ofSMuiwW76l2ZIeoqJQIsz7Fn4fytnrx.webp",
+        "cast": [
+            "Tom Ellis",
+            "Lauren German"
+        ],
+        "director": [
+            "",
+            ""
+        ],
+        "writer": [
+            "",
+            ""
+        ],
+        "genres": [
+            "Crime TV Shows",
+            "TV Drama",
+            "US TV Shows",
+            "Fantasy TV Shows",
+            "TV Shows Based on Comics"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Nudity",
+            "Substances",
+            "tobacco use"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "43m",
+        "ranking": 39,
+        "views": 6500,
+        "like": 150,
+        "pra": "Bored with running Hell, Lucifer relocates to L.A., where he opens a nightclub and uses his otherworldly abilities to solve murders alongside an ambitious detective, who prefers to put business before pleasure, much to this handsome devil's dismay.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111138,
+        "name": "Extraction 2",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABVxXVQ7mTEp6K93bDiADT_XKBIYK462o1pu167bk_PFdQpnh89gMO9kYtxI77cGz_g2KrnlZYpkAdmWK3ZZ7NxMQpm4yB7uZ65Z0ydF4NNmqym2mCEOezHm7KF6fhTmaxJOk.jpg",
+        "logo": "AAAABVNoBgJrvk0BWf42Ezb5gugn7MZzMwlRemshJaFZNhNRvVOILzI35vAaNcclwMqDjCS2TuiGssj_ZyuaVGIa6RPJbhHrzkt2MeQV5YtqGwCHzimSvQ1k6yWOpgG_uhIAj3oFrowfdzxvXFt7YK-KZ925ZRf2PeUExB-St7IcDn10EfLEdzPc.webp",
+        "cast": [
+            "Chris Hemsworth",
+            "Golshifteh Farahani"
+        ],
+        "director": "Sam Hargrave",
+        "writer": [
+            "Joe Russo"
+        ],
+        "genres": [
+            "US Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 3m",
+        "ranking": 37,
+        "views": 160000,
+        "like": 205,
+        "pra": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster."
+    },
+    {
+        "id": 111139,
+        "name": "Guns & Gulaabs",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABWw20FmOFPe4RZVpUfJ2pMGPL_TVcHvcCPb-ALhovDF5ek5hhMP8YALiUwDdhftLI973rGW8GWe7fGl_Iy1Ta-ev5Qg3pKQy5crkMXfLyITSuUxLfUFo3JbU8cv1BkLVPv7l.jpg",
+        "logo": "AAAABaLk72QXnGKOpXfUTaDz6ZnTInfOcDgm4XfJzl3LkoTanfXDVqdy7uMv0UlOL-LFZNc4gdMBX21ito-g9XGzgAXiDztozi4WbnH8Fy4HjFbocw_0T5YmMlItChhoHqmhPGbKrcrZ-sfqTpsUDABhzSyIMRWyERoQ9qlyF3xQC5u3sgfvD9rk.webp",
+        "cast": [
+            "Rajkummar Rao",
+            "Dulquer Salmaan"
+        ],
+        "director": [
+            "Raj Nidimoru",
+            "Krishna D.K."
+        ],
+        "writer": [
+            "Raj Nidimoru",
+            "Krishna D.K."
+        ],
+        "genres": [
+            "TV Comedies",
+            "TV Drama",
+            "Crime TV Shows",
+            "TV Thirllers",
+            "Hindi-Laguage Shows"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "language",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "50m",
+        "ranking": 40,
+        "views": 7700,
+        "like": 106,
+        "pra": "In the cartel-run town of Gulaabgunj, an unprecedented opium deal pulls a big-city cop and a lovesick mechanic into its chaotic clutches.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111140,
+        "name": "Jaane Jaan",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABXcb05GAhJBGw33ruyDNv_CLh1ceUBO04oHJhefOx1Zc5NvkuWKG4AcqrFkpXx-OJxg8wSHccy_jaM4vxUYHsaKPpqzfVEq0VbTSh5Q-OGhxrm8RsWrKjB6ROn-vM9dBCUsM.jpg",
+        "logo": "AAAABYAXkEEirr5GgI2_VbBZrxFjFr64K_z5YZ-F_vq2LqEp0ldEIheNDlC1fg-AE0rLk8W3zz0KdIxXXSeSWSiqTRBRDNbAvMnGxj_XCYQGfMJvWd1CD5_iZvVra1Flnw8VGaF8iKEJ_OaSO7W393IoVN8ILvoZ8UfcuQrVajiG5oh4K8DqI1M9.webp",
+        "cast": [
+            "Kareena Kapoor",
+            "Jaideep Ahlawat"
+        ],
+        "director": "Sujoy Ghosh",
+        "writer": [
+            "Sujoy Ghosh"
+        ],
+        "genres": [
+            "Hindi-Laguage Movies",
+            "Bollywood Movies",
+            "Crime Movies",
+            "Thriller Movies",
+            "Movies Based On Book"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "suicide",
+            "tobacco use",
+            "violence",
+            "Domestic abuse"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 19m",
+        "ranking": 39,
+        "views": 160000,
+        "like": 205,
+        "pra": "When a single mother is caught in a crime investigation, her neighbor — a gifted math teacher — offers to help and a relentless cop digs into the case."
+    },
+    {
+        "id": 1111141,
+        "name": "Thunivu",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABXhqX9YKYuSruxf2fKHIOTK87qkK57ommlXQ94KnN8rWkK3uWWB_1OAx7Va9UwBd2WwpS3x0es0mG_E4GhZ6ekZBER8Jq4lHcAQ.webp",
+        "logo": "AAAABYDM5-FuYQHp9jStu_t_U8cXD7jcF5jGMO1dYV2t02BDxxzJrdQWhjVgSmpxutHu_jXMsBMXnqM-V-2oZ__HvfXqozCOOj89gDZ6ihdy33U.webp",
+        "cast": [
+            "Ajith Kumar",
+            "Manju Warrier"
+        ],
+        "director": "H. Vinoth",
+        "writer": [
+            "H. Vinoth"
+        ],
+        "genres": [
+            "Tamil-Laguage Movies",
+            "Crime Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "violence"
+        ],
+        "type": "tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 22m",
+        "ranking": 38,
+        "views": 120000,
+        "like": 196,
+        "pra": "A major bank heist takes an unnerving turn when a mysterious interloper known only as Dark Devil begins to hijack the operation."
+    },
+    {
+        "id": 1111142,
+        "name": "Raw",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABXuo2imYCqyxaUFweXwlMoC16FUdW30irzU32wVRFQKiRqV7JajInkLLg9DjVr5TbAVIMQFW5nG7WNj9LfbTU00CY24iz4FvOOE.webp",
+        "logo": "AAAABfD6d2r6wZmEJhGs_m7vGvBUFOFRpkILq6O6tbY7ng1myWjkYmZf1A8I4DYxEhIMTweVOzOAVqimG3x3-JWms7Kzm6eWWR-PNYPVp4wDshA.webp",
+        "cast": [
+            "Vijay",
+            "Pooja Hegde"
+        ],
+        "director": "Nelson Dilipkumar",
+        "writer": [
+            "Nelson Dilipkumar"
+        ],
+        "genres": [
+            "Military Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "violence"
+        ],
+        "type": "Tollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 36m",
+        "ranking": 33,
+        "views": 120000,
+        "like": 275,
+        "pra": "A jaded former intelligence agent is pulled back into action when an attack at a mall creates a tense hostage situation."
+    },
+    {
+        "id": 111143,
+        "name": "Guns & Gulaabs",
+        "year": 2023,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABWw20FmOFPe4RZVpUfJ2pMGPL_TVcHvcCPb-ALhovDF5ek5hhMP8YALiUwDdhftLI973rGW8GWe7fGl_Iy1Ta-ev5Qg3pKQy5crkMXfLyITSuUxLfUFo3JbU8cv1BkLVPv7l.jpg",
+        "logo": "AAAABaLk72QXnGKOpXfUTaDz6ZnTInfOcDgm4XfJzl3LkoTanfXDVqdy7uMv0UlOL-LFZNc4gdMBX21ito-g9XGzgAXiDztozi4WbnH8Fy4HjFbocw_0T5YmMlItChhoHqmhPGbKrcrZ-sfqTpsUDABhzSyIMRWyERoQ9qlyF3xQC5u3sgfvD9rk.webp",
+        "cast": [
+            "Rajkummar Rao",
+            "Dulquer Salmaan"
+        ],
+        "director": [
+            "Raj Nidimoru",
+            "Krishna D.K."
+        ],
+        "writer": [
+            "Raj Nidimoru",
+            "Krishna D.K."
+        ],
+        "genres": [
+            "TV Comedies",
+            "TV Drama",
+            "Crime TV Shows",
+            "TV Thirllers",
+            "Hindi-Laguage Shows"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "language",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Bollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "50m",
+        "ranking": 40,
+        "views": 7700,
+        "like": 106,
+        "pra": "In the cartel-run town of Gulaabgunj, an unprecedented opium deal pulls a big-city cop and a lovesick mechanic into its chaotic clutches.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111144,
+        "name": "Wednesday",
+        "year": 2022,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABZ0IIRm9KdvEIHX8pEG19_nwxu8sV_ai2FXeApKN_d2mY6_Cmw2TykaORJg2tjOq4P5Sx9TfNoCkdsPdTfIn7ehG27wFLUH3VPeMqeQL4eUMUqtXTsxJ46otf-Uq6OKBpoGN.jpg",
+        "logo": "AAAABVxz-KdaZMw9cYUwZAxD9pL5US8OrZaAYupJ7_jv1IumWm_76nCJH9bBaRE-F8YK4RvhV9D9aqgV8KV9PoWUevk8iQUrJBj0sgx4RT9y35luXL7OSMNkhypDfhwwwhsJXSzHrh0-SHyNsQQxHOp67VDpR5VNASFvF0ZXSNa-eiCAj0LjgjLD.webp",
+        "cast": [
+            "Jenna Ortega",
+            "Gwendoline Christie"
+        ],
+        "director": [
+            "Alfred Gough",
+            "Miles Millar"
+        ],
+        "writer": [
+            "Alfred Gough",
+            "Miles Millar"
+        ],
+        "genres": [
+            "TV Comedies",
+            "US TV Shows",
+            "Teen TV Shows",
+            "TV Mysteries",
+            "Crime TV Shows"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "Gore",
+            "language",
+            "Mature thems",
+            "Treat",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "59m",
+        "ranking": 30,
+        "views": 98700,
+        "like": 196,
+        "pra": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making friends — and foes — at her new boarding school, Nevermore Academy. Tim Burton directs this delightfully dark series starring Jenna Ortega.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 111145,
+        "name": "Breaking Bad",
+        "year": 2013,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABZi_RqpT84KU9PuLqluo8QNslnXT8Hu2_bME3ez2GFxUqc-CdICtULofUMFIpTV_EO1tghUWNSLzXeqhWzYDdSL2ifiUB0eKrn8.webp",
+        "logo": "AAAABS1kQ3bLw61sI8nNQHftRAKuEw-TfNIAjZ2UnZKfwlSWMuc7JVGnvJiFqvkem_5adGMUswsUoJjL0zyIkyIK2QS7Cah82EJv7CKrzZDkapM.webp",
+        "cast": [
+            "Bryan Cranston",
+            "Aaron Paul"
+        ],
+        "director": [
+            "Vince Gilligan"
+        ],
+        "writer": [
+            "Vince Gilligan"
+        ],
+        "genres": [
+            "TV Drama",
+            "US TV Shows",
+            "TV Thirllers",
+            "Crime TV Shows"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Gore",
+            "sex",
+            "Substances",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "58m",
+        "ranking": 240,
+        "views": 58700,
+        "like": 98,
+        "pra": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future.",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111146,
+        "name": "Minions: The Rise of Gru",
+        "year": 2022,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "AAAABQLPFWK0SpVVCJra-2V-j5dt-GvQiOTSq0n_UL1Eu1ff5ZIvRTDYI1afNA0AkTUSy3GxxaNIMBZsemUs8dy-8Ge1kipjjzCoVayEog_MLjZSQbzkrSHjl4Ob0kTzMW9PL3nyc-ZHsHMNRLbNelIvh5bA0U7lSFyXF2f35uc8oU04rukO9_jpWEX5l0Ss-N2u.webp",
+        "big_poster": "AAAABZmoD2OckbnwOiDZUREDLThQcwNAAxdOuCMDCow0qDO4wP8g9B3nMkvPUU9ZccDnD7Tcy5mAr9QRLbDonVuo0PNT7gYTKvWhdqBUkrdBDX5KpAZD0mGyfb7Uh7LGNU3KPa1cGGmjJzPwyOTT83TNnD4IV5uvbY115y8.webp",
+        "logo": "AAAABa_oqKBTh47MCaUjZYkxTzOpp4koWaLOW6296Xe38-oqBiQ3hFBpR243f-m1SmqYk2A_PAumky25bf5ZOMG4wAs7lw--jCk0mvQFTJGQpps.webp",
+        "cast": [
+            "Steve Carell",
+            "Pierre Coffin"
+        ],
+        "director": [
+            "Kyle Balda",
+            "Brad Ableson",
+            "Jonathan del Val"
+        ],
+        "writer": [
+            "Brian Lynch",
+            "Matthew Fogel"
+        ],
+        "genres": [
+            "Family Features",
+            "Children & Family Movies",
+            "Comedy Movies",
+            "US Movies",
+            "Kids Movies"
+        ],
+        "maturity_rating": "U/A",
+        "maturity_rating_point": [
+            "mild fear",
+            " mild language",
+            "mild violencee"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "1h 27m",
+        "ranking": 27,
+        "views": 19000,
+        "like": 175,
+        "pra": "Rejected by his supervillain idols, 12-year-old Gru sets out to prove his despicable nature with the help of his bumbling team of Minions."
+    },
+    {
+        "id": 111147,
+        "name": "BLUE EYE SAMURAI",
+        "year": 2013,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "serise",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian"
+        ],
+        "small_poster": "AAAABTFSsScOLmN_AUDhLbDLYPJ9Esxa7eXid5O1eXUltOYVTjJPPssD6qdITgtqAU_cdTw8l8ug1pt7Ap5TZUb-IJm4Rlq5MKaOCnhAXlVXbRXb4-A78msacFnbhWu4NdEejx5sJhdRG8zqwOalzgssA6wxvqkaFEUQgUsdSp_NhSGptN_3AENsGUwsQzS2pqoP.jpg",
+        "big_poster": "AAAABZuIWqaX5hyfdto1vAR0V7whadP-NkqhpmvFcsEPQK_Efu6Jko-iLNtWU3I84cF4EVRhJjuJfblw90puwefpeLOeKzHatzjePCly8JVtWV91dHFRCgA50lk3gO_cMv84AQDVDZfHnd86x7vi3r1zaxiR7XfAUixcWljzSphuwjHopWIzOxXlQbVFNPMbBnM.jpg",
+        "logo": "AAAABUd3m2ejevi-_MKB8JnUp0_Fu_cpaRzH-DXDUXKRXh-9Va_pIgADxruQyaB0EqQyHtTRPp8NaGERnXT8-eKocTBOgVUkUKiyVc7M3XghnCkVaYnR6qOVjlxvJd_jw6P7ZltcA1KHp4a8MOv5C2C3TGZLMvoaZBdNOR_xy1IgRW_RenMiaq0L.webp",
+        "cast": [
+            "Maya Erskine",
+            "Brenda Song"
+        ],
+        "director": [
+            "Amber Noizumi",
+            "Michael Green"
+        ],
+        "writer": [
+            "Amber Noizumi",
+            "Michael Green"
+        ],
+        "genres": [
+            "TV Drama",
+            "US TV Shows",
+            "TV Action & Adventure"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "Gore",
+            "Nudity",
+            "sexual violence",
+            "sex",
+            "crude humor",
+            "tobacco use",
+            "violence",
+            "suicide"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "62m",
+        "ranking": 280,
+        "views": 98700,
+        "like": 288,
+        "pra": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior (Maya Erskine) cuts a bloody path toward her destiny in this animated action series created by Amber Noizumi and Michael Green (Logan).",
+        "ep": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 1111148,
+        "name": "13 Hours: The Secret Soldiers of Benghazi",
+        "year": 2016,
+        "video_type": "HD",
+        "audio_type": "Atoms",
+        "movie_type": "movie",
+        "lag": [
+            "Hindi",
+            "English",
+            "Arbic",
+            "Urdu",
+            "Romanian",
+            "Telgu"
+        ],
+        "small_poster": "",
+        "big_poster": "AAAABZZHMGnmgM3lHz6iUdaliJ4QgkS35h-ATGQCm7K2G6IXAZ2NQnUGgd8RSzhhvHtMqvps08kFaRj-2MH_si19ECRx3M-srbhBZHA.webp",
+        "logo": "AAAABU8Vf8ffe5H8mhQqD05LXV1LnWEeIXo07WKQYBz5TqR7ZeoGi0XhBP3CndjpeMvbWYbFDVx1LRYr5410kMRcsRCX_NgjN5cNfH_YqsQ3i6c.webp",
+        "cast": [
+            "John Krasinski",
+            "James Badge Dale"
+        ],
+        "director": [
+            "Michael Bay"
+        ],
+        "writer": [
+            "Chuck Hogan"
+        ],
+        "genres": [
+            "Military Movies",
+            "Movies Based on Books",
+            "Movies Based on Real Life",
+            "US Movies",
+            "Action & Adventure Movies"
+        ],
+        "maturity_rating": "A",
+        "maturity_rating_point": [
+            "gore",
+            " language",
+            "tobacco use",
+            "violence"
+        ],
+        "type": "Hollywood",
+         "audio": {
+            "hindi": "hindi.mp3",
+            "english": "english.mp3"
+        },
+        "subtitle": {
+            "hindi": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle Hindi 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle Hindi 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle Hindi 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle Hindi 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle Hindi 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle Hindi 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle Hindi 7"
+                }
+            ],
+            "english": [
+                {
+                    "start": 2,
+                    "end": 5,
+                    "text": "Subtitle English 1"
+                },
+                {
+                    "start": 7,
+                    "end": 10,
+                    "text": "Subtitle English 2"
+                },
+                {
+                    "start": 12,
+                    "end": 15,
+                    "text": "Subtitle English 3"
+                },
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "Subtitle English 4"
+                },
+                {
+                    "start": 27,
+                    "end": 33,
+                    "text": "Subtitle English 5"
+                },
+                {
+                    "start": 35,
+                    "end": 39,
+                    "text": "Subtitle English 6"
+                },
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Subtitle English 7"
+                }
+            ]
+        },
+        "time": "2h 25m",
+        "ranking": 37,
+        "views": 29000,
+        "like": 275,
+        "pra": "Members of an elite security team battle to save the lives of trapped U.S. Consulate personnel under attack by armed terrorists in Benghazi, Libya."
+    }
+]
